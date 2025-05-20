@@ -1,6 +1,8 @@
 # IOT25_HW07
 
 #assignment table and chart
+
+
 ![table_chart](table_chart.jpg)
 
 #assignment7_image(거리에 따른 값들)
